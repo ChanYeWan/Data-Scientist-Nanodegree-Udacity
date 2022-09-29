@@ -1,6 +1,6 @@
-#Disaster Response Pipeline
+**Disaster Response Pipeline**
 
-##Project Overview
+**Project Overview**
 
 The task is to build a model for an API that classifies disaster messages so that the messages to be sent to an appropriate disaster relief agency.
 A data set containing real disaster messages from Figure Eight that were sent during disaster events were given.
