@@ -8,5 +8,5 @@ In this works, a machine learning pipeline will be built to categorize these eve
 
 Project Components:
 1. Write ETL Pipeline & ML Pipeline
-2. Run the following command in the app's directory to run your web app. python run.py
+2. Run the following command in the app's directory to run web app. and python run.py
 3. Flask Web App
