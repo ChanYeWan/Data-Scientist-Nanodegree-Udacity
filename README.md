@@ -1,7 +1,5 @@
 # Disaster Response Pipeline Project
 
-Project Overview
-
 Build a model for an API that classifies real disaster messages from Figure Eight so that the messages will be delivered to an appropriate disaster agency.
 
 ### Instructions:
