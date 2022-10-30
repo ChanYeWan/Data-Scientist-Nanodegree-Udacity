@@ -2,7 +2,7 @@
 
 Projects:
 1. Creating a blog post and Github repository 
-   - The Seattle Airbnb open data was chosen to explore its 3 business problems with CRISP-DM process
+   - The Seattle Airbnb open data was selected to explore 3 business problems with CRISP-DM process
 2. Disaster Response Pipeline 
    - A disaster messages classifier was built comprising of an ETL pipeline, ML pipeline, and Flask Web App
 3. Recommendations with IBM
