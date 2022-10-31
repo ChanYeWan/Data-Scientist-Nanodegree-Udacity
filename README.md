@@ -3,6 +3,7 @@
 Projects:
 1. Creating a blog post and Github repository 
    - The Seattle Airbnb open data was selected to explore 3 business problems with CRISP-DM process
+     Link: https://github.com/ChanYeWan/Data-Scientist-Nanodegree-Udacity/blob/main/Project%201%20(Seattle%20Airbnb)%20Udacity.ipynb
 2. Disaster Response Pipeline 
    - A disaster messages classifier was built comprising of an ETL pipeline, ML pipeline, and Flask Web App
      Link: https://github.com/ChanYeWan/Data-Scientist-Nanodegree-Udacity/tree/master
