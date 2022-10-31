@@ -8,5 +8,5 @@ Projects:
 3. Recommendations with IBM
    - Rank-based, User-based collaborative filtering and matrix factorization techniques were used to build a recommendation engines
 4. Spark Project with Sparkify Data
-   - Churn rate of users was predicted by using Apache spark (PySpark)
+   - Churn rate of users was predicted by using PySpark
 
