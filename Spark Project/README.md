@@ -14,4 +14,5 @@ Positive and negative feedbacks, interaction between users, and trends of song a
 Modeling
 
 Predicting churn is a classification in machine learning. 3 classification models - Logistic Regression, Random Forest and Gradient Boosting Tree are chosen to compare the model performance and validate the suitable hyperparameters. For evalaution metrics, accuracy and F1 score are evaluated. Accuracy measures how well the model in predicitng churn and F1 score measures the accuracy of the model's performance.
+
 Spark SQL, Spark DataFrame and Spark ML will be used in this analysis.
