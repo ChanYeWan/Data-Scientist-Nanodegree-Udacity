@@ -20,5 +20,6 @@ Projects:
    - Churn rate of users was predicted by using PySpark
    
      GitHub Repository Link: https://github.com/ChanYeWan/Data-Scientist-Nanodegree-Udacity/tree/main/Spark%20Project
+     
      Blog Post Link: https://medium.com/@yewan93/predict-churn-users-with-spakify-data-86f12d2c592d
 
