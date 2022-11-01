@@ -14,7 +14,7 @@ Projects:
 3. Recommendations with IBM
    - Rank-based, User-based collaborative filtering and matrix factorization techniques were used to build a recommendation engines
    
-    Github Repository Link: https://github.com/ChanYeWan/Data-Scientist-Nanodegree-Udacity/blob/main/Recommendation%20Engines/Recommendations_with_IBM.ipynb
+     Github Repository Link: https://github.com/ChanYeWan/Data-Scientist-Nanodegree-Udacity/blob/main/Recommendation%20Engines/Recommendations_with_IBM.ipynb
    
 4. Spark Project with Sparkify Data
    - Churn rate of users was predicted by using PySpark
