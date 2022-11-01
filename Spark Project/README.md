@@ -9,7 +9,7 @@ The relationship between gender and level of users - (paid or free) against chur
 
 Feature Engineering
 
-Positive and negative feedbacks, interaction between users, and trends of song and artists are investigated to identify the tendency of churn rate. The target and feature variables are defined and prepared for the use in modeling.
+Positive and negative feedbacks, interaction of users with services, and trends of song and artists are investigated to identify the tendency of churn rate. The target and feature variables are defined and prepared for the use in modeling.
 
 Modeling
 
