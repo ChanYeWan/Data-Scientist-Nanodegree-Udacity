@@ -12,7 +12,7 @@ Projects:
      GitHub Repository Link: https://github.com/ChanYeWan/Data-Scientist-Nanodegree-Udacity/tree/master
      
 3. Recommendations with IBM
-   - Rank-based, User-based collaborative filtering and matrix factorization techniques were used to build a recommendation engines
+   - Rank-based, User-based collaborative filtering and matrix factorization techniques were used to build recommendation engines
    
      GitHub Repository Link: https://github.com/ChanYeWan/Data-Scientist-Nanodegree-Udacity/blob/main/Recommendation%20Engines/Recommendations_with_IBM.ipynb
    
