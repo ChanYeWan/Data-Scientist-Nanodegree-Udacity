@@ -1,4 +1,4 @@
-# Data Scientist Nanodegere Program
+# Data Scientist Nanodegere Program by Udacity
 
 Projects:
 1. Creating a blog post and Github repository 
